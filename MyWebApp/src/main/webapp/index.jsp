@@ -4,7 +4,7 @@
     <title>My DevOps Assignment</title>
 </head>
 <body>
-    <h1>Welcome to MyWebApp!</h1>
-    <p>Java, Maven, Git and Jenkins</p>
+    <h1>Welcome Sathish!</h1>
+    <p>Enjoy with Automation</p>
 </body>
 </html>
