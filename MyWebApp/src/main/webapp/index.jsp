@@ -1,10 +1,12 @@
-
+ 
+<!DOCTYPE html>
 <html>
 <head>
-    <title>My DevOps Assignment</title>
+    <title>Sathish - DevOps Automation</title>
 </head>
 <body>
-    <h1>Welcome to MyWebApp!</h1>
-    <p>Java, Maven, Git and Jenkins</p>
+    <h1>Welcome Sathish!</h1>
+    <h2>Enjoy with Automation 🚀</h2>
+    <p>Java | Maven | Git | Jenkins | Tomcat</p>
 </body>
 </html>
